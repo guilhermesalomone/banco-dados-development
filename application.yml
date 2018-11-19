@@ -1,2 +1,5 @@
 banco:
     url: Developer BD
+    
+user:
+    role: Developer
